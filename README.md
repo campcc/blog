@@ -7,6 +7,7 @@
 ## 面试题解JavaScript系列
 
 [面试题解JavaScript(一): 写出一下代码的打印结果(京东)](https://github.com/campcc/blog/issues/1)
+[面试题解JavaScript(二): new 的实现原理](https://github.com/campcc/blog/issues/3)
 
 ## 勘误与提问
 
