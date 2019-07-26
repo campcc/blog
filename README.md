@@ -2,7 +2,7 @@
 
 ## 进度
 
-面试题解JavaScript系列 1 篇已完结
+面试题解JavaScript系列 2 篇已完结
 
 ## 面试题解JavaScript系列
 
