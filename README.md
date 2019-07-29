@@ -3,11 +3,16 @@
 ## 进度
 
 面试题解JavaScript系列 2 篇已完结
+读书笔记系列 1 篇已完结
 
 ## 面试题解JavaScript系列
 
 - [面试题解JavaScript(一): 写出一下代码的打印结果(京东)](https://github.com/campcc/blog/issues/1)
 - [面试题解JavaScript(二): new 的实现原理是什么](https://github.com/campcc/blog/issues/3)
+
+## 读书笔记系列
+
+- [读书笔记(一): 作用域](https://github.com/campcc/blog/issues/5)
 
 ## 勘误与提问
 
