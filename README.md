@@ -4,7 +4,7 @@
 
 面试题解JavaScript系列 **2** 篇已完结
 
-读书笔记系列 **1** 篇已完结
+读书笔记系列 **2** 篇已完结
 
 ## 面试题解JavaScript系列
 
@@ -14,6 +14,7 @@
 ## 读书笔记系列
 
 - [读书笔记(一): 作用域](https://github.com/campcc/blog/issues/5)
+- [读书笔记(二): 闭包](https://github.com/campcc/blog/issues/6)
 
 ## 勘误与提问
 
