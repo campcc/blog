@@ -21,7 +21,7 @@
 
 ## 其他博文
 
-- [JavaScript类型判断的1010种方式(史上最全)](https://github.com/campcc/issues/8)
+- [JavaScript类型判断的1010种方式(史上最全)](https://github.com/campcc/blog/issues/7)
 
 ## 勘误与提问
 
