@@ -8,6 +8,8 @@
 
 图解CSS系列 **1** 篇已完结
 
+Webpack系列 **1** 篇已完成
+
 博文 **1** 篇已完结
 
 ## 面试题解JavaScript系列
@@ -24,6 +26,10 @@
 ## 图解CSS系列
 
 - [图解CSS(一)：盒子模型](https://codepen.io/lycheelee/pen/qBWVqeB)
+
+## Webpack系列
+
+- [深入Webpack(一): 模块解析规则](https://github.com/campcc/blog/issues/10)
 
 ## 博文
 
