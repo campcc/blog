@@ -8,7 +8,7 @@
 
 图解CSS系列 **1** 篇已完结
 
-Webpack系列 **1** 篇已完成
+Webpack系列 **2** 篇已完成
 
 博文 **1** 篇已完结
 
@@ -30,6 +30,7 @@ Webpack系列 **1** 篇已完成
 ## Webpack系列
 
 - [深入Webpack(一): 模块解析规则](https://github.com/campcc/blog/issues/10)
+- [深入Webpack(二): resolve](https://github.com/campcc/blog/issues/11)
 
 ## 博文
 
