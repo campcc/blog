@@ -35,6 +35,7 @@ Webpack系列 **2** 篇已完成
 ## 博文
 
 - [JavaScript类型判断的1010种方式(史上最全)](https://github.com/campcc/blog/issues/7)
+- [可能是最好的跨域解决方案了...](https://github.com/campcc/blog/issues/14)
 
 ## 勘误与提问
 
