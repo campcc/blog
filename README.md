@@ -36,7 +36,8 @@ Webpack系列 **2** 篇已完成
 
 - [JavaScript类型判断的1010种方式(史上最全)](https://github.com/campcc/blog/issues/7)
 - [React Diff算法解析](https://github.com/campcc/blog/issues/13)
-- [可能是最好的跨域解决方案了...](https://github.com/campcc/blog/issues/14)
+- [深入JavaScrip(一): 原型与原型链](https://github.com/campcc/blog/issues/14)
+- [可能是最好的跨域解决方案了...](https://github.com/campcc/blog/issues/15)
 
 ## 勘误与提问
 
