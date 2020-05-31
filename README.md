@@ -16,7 +16,7 @@ Webpack系列 **2** 篇已完成
 
 ## 计算机通识
 
-- [计算机通识(一)：UDP协议(https://github.com/campcc/blog/issues/17)]
+- [计算机通识(一)：UDP协议](https://github.com/campcc/blog/issues/17)
 
 ## 面试题解JavaScript系列
 
