@@ -12,7 +12,7 @@
 
 Webpack系列 **2** 篇已完成
 
-博文 **5** 篇已完结
+博文 **6** 篇已完结
 
 ## 计算机通识
 
@@ -46,6 +46,7 @@ Webpack系列 **2** 篇已完成
 - [深入JavaScrip(一): 原型与原型链](https://github.com/campcc/blog/issues/14)
 - [可能是最好的跨域解决方案了...](https://github.com/campcc/blog/issues/15)
 - [可能是最好的 BFC 解析了...](https://github.com/campcc/blog/issues/16)
+- [可能是最好的 this 解析了...](https://github.com/campcc/blog/issues/19)
 
 ## 勘误与提问
 
