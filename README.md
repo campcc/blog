@@ -1,6 +1,6 @@
 # 一二家的攻城狮的博客
 
-**博客已迁移至[这里❤️](https://campcc.github.io/repository/)**
+**Tips：新版博客已迁移至知识库，[点我移步❤️](https://campcc.github.io/repository/)**
 
 ## 进度
 
