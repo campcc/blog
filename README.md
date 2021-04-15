@@ -1,43 +1,8 @@
 # 一二家的攻城狮的博客
 
-**Tips：新版博客已迁移至知识库，[点我移步❤️](https://campcc.github.io/repository/)**
-
-## 进度
-
-计算机通识 **2** 篇已完结
-
-面试题解JavaScript系列 **3** 篇已完结
-
-图解CSS系列 **1** 篇已完结
-
-Webpack系列 **2** 篇已完成
-
-博文 **6** 篇已完结
-
-## 计算机通识
-
-- [计算机通识(一)：UDP协议](https://github.com/campcc/blog/issues/17)
-- [计算机通识(二)：TCP协议](https://github.com/campcc/blog/issues/18)
-
-## 面试题解JavaScript系列
-
-- [面试题解JavaScript(一): 写出一下代码的打印结果(京东)](https://github.com/campcc/blog/issues/1)
-- [面试题解JavaScript(二): new 的实现原理是什么](https://github.com/campcc/blog/issues/3)
-- [面试题解JavaScript(三): call, apply 及 bind 函数的内部实现是怎么样的](https://github.com/campcc/blog/issues/4)
-
-## 图解CSS系列
-
-- [图解CSS(一)：盒子模型](https://codepen.io/lycheelee/pen/qBWVqeB)
-
-## Webpack系列
-
-- [深入Webpack(一): 模块解析规则](https://github.com/campcc/blog/issues/10)
-- [深入Webpack(二): resolve](https://github.com/campcc/blog/issues/11)
-
 ## 博文
 
 - [JavaScript类型判断的1010种方式(史上最全)](https://github.com/campcc/blog/issues/7)
-- [React Diff算法解析](https://github.com/campcc/blog/issues/13)
 - [深入JavaScrip(一): 原型与原型链](https://github.com/campcc/blog/issues/14)
 - [可能是最好的跨域解决方案了...](https://github.com/campcc/blog/issues/15)
 - [可能是最好的 BFC 解析了...](https://github.com/campcc/blog/issues/16)
