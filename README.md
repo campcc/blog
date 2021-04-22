@@ -8,7 +8,7 @@ I am MonchLee, this is the place of my techblog, around the following,
 ## Posts
 
 - [响应式布局，你应该知道的一切](https://github.com/campcc/blog/issues/24)
-- [这一次，彻底弄懂 Promise](https://github.com/campcc/blog/issues/25)
+- [精读《Promises/A+》规范](https://github.com/campcc/blog/issues/25)
 - [源码拾遗系列(一)：Axios ](https://github.com/campcc/blog/issues/23)
 - [JavaScript类型判断的1010种方式(史上最全)](https://github.com/campcc/blog/issues/7)
 - [深入JavaScrip(一): 原型与原型链](https://github.com/campcc/blog/issues/14)
