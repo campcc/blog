@@ -20,7 +20,7 @@ I am MonchLee, this is the place of my techblog, around the following,
 
 ## Professional React
 
-- [React进阶系列导语](https://github.com/campcc/blog/issues/32)
+- [React进阶系列](https://github.com/campcc/blog/issues/32)
 - [React进阶系列之JSX](https://github.com/campcc/blog/issues/28)
 - [React进阶系列之生命周期](https://github.com/campcc/blog/issues/29)
 - [React进阶系列之数据流](https://github.com/campcc/blog/issues/30)
