@@ -2,7 +2,7 @@
 
 I am MonchLee, this is the place of my techblog, around the following,
 
-- ⚡ JavaScript/HTML/CSS
+- ⚡ JavaScript/HTML/CSS/Browser
 - 🌱 Source Code Analysis/Responsive Design/FE-Framework
 
 ## Posts
