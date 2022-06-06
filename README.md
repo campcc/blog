@@ -22,8 +22,8 @@ I am MonchLee, this is the place of my techblog, around the following,
 
 ## Browser
 
-- [浏览器原理(一)：多线程架构](https://github.com/campcc/blog/issues/36)
-- [浏览器原理(二)：渲染流程](https://github.com/campcc/blog/issues/37)
+- [浏览器原理：多线程架构](https://github.com/campcc/blog/issues/36)
+- [浏览器原理：渲染流程](https://github.com/campcc/blog/issues/37)
 
 ## Professional React
 
