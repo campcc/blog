@@ -7,15 +7,15 @@ I am MonchLee, this is the place of my techblog, around the following,
 
 ## Posts
 
-- [JavaScript执行机制(一)：执行上下文](https://github.com/campcc/blog/issues/38)
+- [JavaScript执行机制：执行上下文](https://github.com/campcc/blog/issues/38)
 - [知乎页面切换动效的探索——惯性滚动篇](https://github.com/campcc/blog/issues/34)
 - [纯 CSS 自定义多行省略：从原理到实现](https://github.com/campcc/blog/issues/27)
 - [Tree Shaking：从原理到实现](https://github.com/campcc/blog/issues/26)
 - [响应式布局，你应该知道的一切](https://github.com/campcc/blog/issues/24)
 - [精读《Promises/A+》规范](https://github.com/campcc/blog/issues/25)
-- [源码拾遗系列(一)：Axios ](https://github.com/campcc/blog/issues/23)
+- [源码拾遗系列：Axios ](https://github.com/campcc/blog/issues/23)
 - [JavaScript类型判断的1010种方式(史上最全)](https://github.com/campcc/blog/issues/7)
-- [深入JavaScrip(一): 原型与原型链](https://github.com/campcc/blog/issues/14)
+- [深入JavaScrip: 原型与原型链](https://github.com/campcc/blog/issues/14)
 - [可能是最好的跨域解决方案了...](https://github.com/campcc/blog/issues/15)
 - [可能是最好的 BFC 解析了...](https://github.com/campcc/blog/issues/16)
 - [可能是最好的 this 解析了...](https://github.com/campcc/blog/issues/19)
