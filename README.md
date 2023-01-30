@@ -28,12 +28,7 @@ I am MonchLee, this is the place of my techblog, around the following,
 
 ## Professional React
 
-- [React进阶系列](https://github.com/campcc/blog/issues/32)
-- [React进阶系列之JSX](https://github.com/campcc/blog/issues/28)
-- [React进阶系列之生命周期](https://github.com/campcc/blog/issues/29)
-- [React进阶系列之数据流](https://github.com/campcc/blog/issues/30)
-- [React进阶系列之Hooks设计动机](https://github.com/campcc/blog/issues/31)
-- [React进阶系列之Why Hooks?](https://github.com/campcc/blog/issues/33)
+- [React设计理念](https://github.com/campcc/blog/issues/44)
 
 ## 勘误与提问
 
