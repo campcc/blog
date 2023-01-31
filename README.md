@@ -30,6 +30,7 @@ I am MonchLee, this is the place of my techblog, around the following,
 
 - [React设计理念](https://github.com/campcc/blog/issues/44)
 - [React架构](https://github.com/campcc/blog/issues/45)
+- [React Fiber架构](https://github.com/campcc/blog/issues/46)
 
 ## 勘误与提问
 
