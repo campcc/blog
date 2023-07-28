@@ -8,7 +8,7 @@ I am MonchLee, this is the place of my techblog, around the following,
 ## Posts
 
 - [Hooks 时代，如何优雅地更新你的复杂状态数据](https://github.com/campcc/blog/issues/51)
-- [2023 年了，你为什么还不用 SWR？](https://github.com/campcc/blog/issues/50)
+- [2023 年了，你为什么还不用 SWR？](https://github.com/campcc/blog/issues/52)
 - [2023 再谈 React 组件通信](https://github.com/campcc/blog/issues/49)
 - [深入数据结构：“堆”](https://github.com/campcc/blog/issues/43)
 - [JavaScript执行机制：执行上下文](https://github.com/campcc/blog/issues/38)
