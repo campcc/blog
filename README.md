@@ -7,6 +7,7 @@ I am MonchLee, this is the place of my techblog, around the following,
 
 ## Posts
 
+- [为什么 every 对于空数组会返回 true？](https://github.com/campcc/blog/issues/54)
 - [2024 前端预测](https://github.com/campcc/blog/issues/53)
 - [Hooks 时代，如何优雅地更新你的复杂状态数据](https://github.com/campcc/blog/issues/51)
 - [2023 年了，你为什么还不用 SWR？](https://github.com/campcc/blog/issues/52)
